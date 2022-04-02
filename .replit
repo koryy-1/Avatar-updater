@@ -1,0 +1,2 @@
+run = "python site.py"
+language = "python3"
